@@ -79,7 +79,7 @@ const Navbar = () => {
           </div>
         )}
         <button className="w-[100px] h-[40px] rounded-xl bg-gradient-to-r from-blue-700 bg-blue-400 flex items-center justify-center">
-          Нэвтрэх
+          Нэвтрэхх
         </button>
       </div>
     </div>
